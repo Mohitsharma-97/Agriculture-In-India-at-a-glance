@@ -1,0 +1,4 @@
+AVg PRice Rupees/Quintal
+PRoduction 000MT
+Area 000Ha
+Pdy MT/Ha
