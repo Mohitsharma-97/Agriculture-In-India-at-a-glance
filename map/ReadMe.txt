@@ -1,0 +1,1 @@
+This folder is used to plot map of India
